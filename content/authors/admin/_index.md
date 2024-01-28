@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 黄永琦
+title: Yongqi Huang
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Yongqi Huang
 
 # Full name (for SEO)
 first_name: Yongqi
@@ -29,17 +29,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Graph Neural Networks
+  - Graph Contrastive Learning
+  - Graph Reasoning
 
 # Education to show in About widget
 education:
   courses:
-    - course: MEng in College of Intelligence and Computing
+    - course: MSc in College of Intelligence and Computing
       institution: Tianjin University
       year: 2023.9-2026.6
-    - course: BSc in College of Computer Science and Technology
+    - course: BSc in Computer Science and Technology
       institution: Jilin University
       year: 2019.9-2023.6
 
@@ -117,5 +117,9 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+This website is currently a private website with the purpose of recording my work and life.
+{style="text-align: justify;"}
+
+
+I am a first-year(2023.09-) master's student at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Dongxiao He. My research interests include Self-Supervised Learning, especially in Contrastive Learning, Graph Reasoning, and Graph Prompt Learning.
 {style="text-align: justify;"}
