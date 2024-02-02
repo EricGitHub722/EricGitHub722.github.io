@@ -121,5 +121,5 @@ This website is currently a private website with the purpose of recording my wor
 {style="text-align: justify;"}
 
 
-I am a first-year(2023.09-) master student at the College of Intelligence and Computing, Tianjin University, supervised by Prof. Dongxiao He. My research interests include Graph Self-Supervised Learning, especially in Graph Contrastive Learning, and Graph Reasoning.
+I am a first-year(2023.09-) master student at the College of Intelligence and Computing, Tianjin University, supervised by Prof. [Dongxiao He](http://cic.tju.edu.cn/faculty/hedongxiao/index.htm). My research interests include Graph Self-Supervised Learning, especially in Graph Contrastive Learning, and Graph Reasoning.
 {style="text-align: justify;"}
