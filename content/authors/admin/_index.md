@@ -38,10 +38,10 @@ education:
   courses:
     - course: MSc in College of Intelligence and Computing
       institution: Tianjin University
-      year: 2023.9-2026.6
+      year: 2023.9 - Now
     - course: BSc in Computer Science and Technology
       institution: Jilin University
-      year: 2019.9-2023.6
+      year: 2019.9 - 2023.6
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
