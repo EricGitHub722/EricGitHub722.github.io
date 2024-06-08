@@ -121,7 +121,6 @@ I'm <strong>Yongqi Huang (黄永琦)</strong>, a first-year master student at th
 {style="text-align: justify;"}
 
 I'm grateful to work with [Jitao Zhao](https://scholar.google.com/citations?hl=en&user=QGvyorsAAAAJ), which has a significant impact on me. Our collaborations are always exciting, and I hope to encounter more good partnerships like this.
-{style="text-align: justify;"}
 
 My research interests include Graph Neural Networks, Graph Self-Supervised Learning, especially in Graph Contrastive Learning (GCL), and Graph Reasoning.
 {style="text-align: justify;"}
